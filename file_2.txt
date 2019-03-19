@@ -1,3 +1,7 @@
 a new line for github
 this is a new file
 to test the branch with
+
+Hi Candy! I was going to insert your favorite word
+but then I thought say if they make us read what was added.
+Fork away!
